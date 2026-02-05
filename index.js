@@ -193,3 +193,7 @@
         if (educationCard) {
             educationObserver.observe(educationCard);
         }
+
+
+
+       
